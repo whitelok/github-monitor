@@ -101,3 +101,5 @@ d.*
 !src/ksana_llm/python/serving_forward_client.py
 !src/ksana_llm/python/serving_generate_client.py
 !src/ksana_llm/python/serving_server.py
+
+.env
